@@ -1,0 +1,9 @@
+ For sanity/cli use :  npm install -g @sanity/cli@2.36.2
+
+
+ For install of libraries use:  npm install @sanity/client@2.21.10 @sanity/image-url node-sass@8.0.0 framer-motion@6.2.3 react-icons
+
+ For react-tooltip use: npm install react-tooltip@4.2.21
+
+ Used framer-motion
+ Implemented higher order components
